@@ -1,0 +1,37 @@
+/* 
+<?php
+
+class ControladorPaciente{
+
+
+
+	static public function ctrCrearPaciente(){
+
+			   $tabla = "pacientes";
+	$datos = array (			"nombre"=>$_POST["nuevoNombre"],
+			   					"apellido"=>$_POST["nuevoApellidoPaciente"],
+			   					"fnacimiento"=>$_POST["nacimientoPaciente"],
+			   					"sexo"=>$_POST["pacienteSexo"],
+			   					"patologias"=>$_POST["patologias"],
+			     				"peso"=>$_POST["nuevopesopaciente"],
+			     				"altura"=>$_POST["nuevalturaPaciente"],
+			     				"edad"=>$_POST["NuevaEdadPaciente"],
+			     				"talla"=>$_POST["nuevaTallaPaciente"],
+			     				"biceps"=>$_POST["nuevopacientebiceps"],
+								"biceps"=>$_POST[""],
+								"diametrohum"=>$_POST[""],
+								"cintura"=>$_POST[""],
+								"biotipo"=>$_POST[""],
+								"numerocelular"=>$_POST[""],
+								"numerodecasa"=>$_POST[""],
+
+
+								);
+
+}
+
+*/
+
+		
+
+
